@@ -6,7 +6,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author balaz
+ * @author Armando Josué
  */
 public class View {
     /**

@@ -12,7 +12,7 @@ public class DbConnection {
     //USANDO EL PATRON DE DISEÑO SIGLETON
     //Variable de entorno
     private static final String DB_HOST = "jdbc:mysql://localhost:3307/";
-    private static final String DB_NAME = "apigooglescholar";
+    private static final String DB_NAME = "apischolar";
     private static final String DB_USER = "root";
     private static final String DB_PASS = "";
     
