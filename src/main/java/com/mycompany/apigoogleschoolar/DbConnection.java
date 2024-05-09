@@ -6,7 +6,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 /**
  *
- * @author balaz
+ * @author Armando Josué
  */
 public class DbConnection {
     //USANDO EL PATRON DE DISEÑO SIGLETON
