@@ -1,4 +1,4 @@
-# API de Google Scholar
+# README
 
 > La API de Google Scholar proporciona acceso programático a la vasta base de datos de Google Scholar, que incluye información sobre publicaciones académicas, autores y citas. Su propósito principal es permitir a los desarrolladores integrar datos académicos y de investigación en sus aplicaciones, herramientas y servicios.
 > 
